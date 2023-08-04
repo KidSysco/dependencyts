@@ -1,0 +1,4 @@
+// Use babel to transpile ES6 to ES5 for testing with Jest.
+{
+  "presets": ["@babel/preset-env"]
+}
