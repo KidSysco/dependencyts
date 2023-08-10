@@ -24,6 +24,12 @@ You can execute the program by running the following command from the root of th
 npm start
 ```
 
+You must install Jest in order to run the tests. You can install Jest by running the following command from the root of the repository:
+
+```
+npm install
+```
+
 ## Testing
 
 This program uses the [Jest](https://jestjs.io/) testing framework. To run the tests, you can run the following command from the root of the repository:
